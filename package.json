@@ -1,0 +1,25 @@
+{
+  "name": "ha-backend-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kader198/node-ha-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kader198/node-ha-backend/issues"
+  },
+  "homepage": "https://github.com/Kader198/node-ha-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
